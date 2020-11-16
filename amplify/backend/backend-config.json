@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cmpg323project2sourc6a3e7405": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
